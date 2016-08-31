@@ -1,0 +1,118 @@
+ul{
+	list-style-type: none;
+}
+a{
+	color: #FFFFFF;
+}
+html{
+	position:relative;
+	min-height: 100%;
+}
+input{
+	height:50px;
+	width:100%;
+	padding-left: 10px;
+}
+select{
+	width:100%;
+}
+button[type='submit']{
+	width:100%;
+}
+textarea{
+	width:100%;
+}
+.row{
+	margin-top:20px;
+}
+.footer{
+	background-color:#272727;
+	color:#FFFFFF;
+	width:100%;
+	position: absolute;
+	bottom:0;
+}
+#logo{
+	width:150px;
+	height:50px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+#detail-header{
+	text-align: center;
+}
+#detail{
+	padding-top: 50px;
+	margin-bottom:350px;
+}
+#welcome{
+	padding-top: 50px;
+}
+#solution{
+	padding-top: 50px;
+	text-align: center;
+}
+#product{
+	padding-top: 50px;
+	text-align: center;
+}
+#about{
+	padding-top: 50px;
+}
+#contact-form{
+	text-align: center;
+	padding-top: 50px;
+	margin-bottom: 350px;
+}
+#content-sol{
+	
+}
+#content-prod{
+}
+#header-ret{
+
+}
+#content-ret{
+
+}
+#header-hos{
+
+}
+#content-hos{
+
+}
+#content-who{
+
+}
+#nav-bar{
+}
+#nav-menu:hover{
+
+}
+#nav-menu:target{
+
+}
+#nav-link{
+	color:#363636;
+}
+#nav-link:hover{
+	color:#363636;
+}
+#intro{
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #357FB9;
+}
+#what-we-do{
+	text-align: center;
+}
+#vision{
+	text-align: center;
+}
+#about-footer{
+	text-align: center;
+}
+#prod-header{
+	text-align: center;
+}
